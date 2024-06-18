@@ -9,7 +9,7 @@ try:
     from time import sleep as abat
     import threading
     import webbrowser
-    webbrowser.open('https://t.me/JokerToolzz')
+    webbrowser.open('https://t.me/xSPY_BACKUP')
 except:
     os.system("pip install OneClick")
     os.system("pip install requests")
