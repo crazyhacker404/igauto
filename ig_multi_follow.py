@@ -1,0 +1,1 @@
+print('THIS TOOL IS CLOSED BY ME. IF YOU WANT TO BUY THIS, DM @crazy_hacker404')
